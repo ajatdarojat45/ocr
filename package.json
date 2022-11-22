@@ -12,7 +12,7 @@
     "react-dom": "^16.13.1",
     "react-loading-overlay": "^1.0.1",
     "react-lottie": "^1.2.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "tesseract.js": "^2.1.1"
   },
   "scripts": {
